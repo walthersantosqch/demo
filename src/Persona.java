@@ -10,8 +10,8 @@ public class Persona {
 	}
 	
 	public Persona() {
-		this.nombre = "-";
-		this.edad = 0;
+		this.nombre = "Hola";
+		this.edad = 12;
 	}
 
 	public String getNombre() {
