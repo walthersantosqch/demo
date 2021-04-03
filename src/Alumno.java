@@ -19,7 +19,5 @@ public class Alumno extends Persona {
 	public String toString() {
 		return "Alumno [dni=" + dni + ", nombre=" + nombre + ", edad=" + edad + "]";
 	}
-
-	
 	
 }
